@@ -1,0 +1,239 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif Arial Tahoma;
+}
+#section_header_2_dark{
+    padding: 20px 250px;
+    background-color: #333333;
+}
+#section_header_2_dark .containerss{
+    display: flex;
+    justify-content: space-between;
+}
+#section_header_2_dark .navbar-header{
+    text-align: center;
+    padding-top: 10px;
+}
+#navbar-collapse-02 ul{
+    list-style: none;
+
+}
+#navbar-collapse-02 .navbar-nav{
+    padding: 0;
+    display: flex;
+}
+#navbar-collapse-02 .navbar-nav li{
+    padding: 0 10px;
+
+}
+#navbar-collapse-02 .propClone{
+    color: #FFCC33;
+    font-weight: bold;
+
+
+}
+#navbar-collapse-02 .propClone a{
+    text-decoration: none;
+    color: #B8CCCC;
+}
+/*-------------------------------------------------------------*/
+#section_pix_4 .creative_video_header {
+    height: 100px;
+    overflow: hidden;
+}
+.creative_video_header {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
+.creative_video_header .pix_video_div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    opacity: 0.5;
+
+}
+
+.creative_video_header .bgvid {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.creative_video_header .section_wrapper {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.creative_video_header .section_wrapper .container {
+    position: relative;
+    padding-top: 100px;
+    top: 50%;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.creative_video_header .section_wrapper .title_style {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    padding: 20px;
+}
+
+.creative_video_header .section_wrapper .subtitle_style {
+    padding: 0 300px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: normal;
+    color: white;
+}
+
+.creative_video_header .section_wrapper .email_subscribe {
+    text-align: center;
+    padding: 20px 330px;
+}
+.creative_video_header .section_wrapper .email_subscribe form{
+    background-color: #252424;
+    padding: 20px;
+}
+
+.creative_video_header .section_wrapper .email_subscribe input {
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.creative_video_header .section_wrapper .email_subscribe button {
+    width: 100%;
+    max-width: 150px;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #ffcc33;
+    color: white;
+    font-weight: bold;
+}
+
+.creative_video_header .section_wrapper .note_st {
+    text-align: center;
+    font-size: 14px;
+    color: white;
+}
+/*-------------------------------------------------------*/
+#section_university_5{
+    padding: 20px 250px;
+}
+#section_university_5 .sixteen{
+    display: flex;
+}
+
+#section_university_5 .icon_st{
+    padding: 20px 30px;
+}
+.psingle_item{
+    display: flex;
+}
+#section_university_5 .text_st {
+    font-size: 20px;
+}
+#section_university_5 .text_st .title_st{
+    font-weight: normal;
+    font-size: 20px;
+    margin-top: 20px;
+}
+#section_university_5 .text_st .subject_st{
+    margin: 0;
+    font-size: 13px;
+    font-weight: normal;
+    opacity: 0.6;
+}
+#section_university_5 .omega{
+    padding: 20px;
+}
+#section_university_5 .substyle{
+    padding: 20px;
+    border: 1px solid #333333;
+}
+#section_university_5 .title-style span{
+    color: #333333;
+    font-size: 25px;
+}
+#section_university_5 .text-style span{
+    opacity: 0.6;
+}
+#section_university_5 .text-style {
+    padding: 10px 0;
+}
+#contact_form input{
+    width: 100%;
+    height: 100%;
+    margin: 10px 0;
+    padding: 16px 0;
+}
+#contact_form .select_st{
+    width: 100%;
+    height: 100%;
+}
+#countries{
+    margin: 10px 0;
+    padding: 10px;
+}
+.send_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.submit_btn {
+    width: 100%;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+/*------------------------------------------*/
+#section_ecourse_7{
+    padding: 20px 250px;
+    background-color: #F6F6F6;
+}
+#section_ecourse_7 .bg_foot{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+#section_ecourse_7 .socbuttons{
+    display: flex;
+    align-items: center;
+}
+#section_ecourse_7 .soc_icons{
+    display: flex;
+}
+#section_ecourse_7 .soc_icons ul{
+    list-style: none;
+}
+#section_ecourse_7 .rights_st{
+    opacity: 0.6;
+}
+#section_ecourse_7 .rights_st .pixfort_st{
+    color: #9077B2;
+    font-weight: bold;
+}
+.likes_st span {
+    opacity: 0.6;
+}
